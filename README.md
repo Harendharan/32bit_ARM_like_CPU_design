@@ -1,4 +1,4 @@
-# 32bitARM_like_CPU_design
+# 32bit_ARM_like_CPU_design
 
 ## Instruction Set
 
